@@ -10,7 +10,7 @@ Controladores de Animación por Eventos: Sincronización precisa de los estados 
 UI Dinámica (Health Bars): Barras de salud flotantes y principales que reaccionan en tiempo real mediante interpolación lineal (Mathf.Lerp) para suavizar el impacto visual cuando un elemento recibe daño.
 
 2. Motor de Combate e Inteligencia Artificial
-AI Enemy Spawners: Generadores automáticos de enemigos controlados por oleadas o rangos de proximidad. Gestionan el ciclo de vida de las entidades en escena para optimizar el uso de memoria RAM.
+Enemy Spawners: Generadores automáticos de enemigos controlados por oleadas o rangos de proximidad. Gestionan el ciclo de vida de las entidades en escena para optimizar el uso de memoria RAM.
 
 🛠️ Tecnologías y Hardware de Desarrollo
 Motor Gráfico: Unity 2D Engine.
