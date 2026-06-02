@@ -12,11 +12,6 @@ UI Dinámica (Health Bars): Barras de salud flotantes y principales que reaccion
 2. Motor de Combate e Inteligencia Artificial
 AI Enemy Spawners: Generadores automáticos de enemigos controlados por oleadas o rangos de proximidad. Gestionan el ciclo de vida de las entidades en escena para optimizar el uso de memoria RAM.
 
-Mecánicas de Progresión y "Grinding": Estructura de datos diseñada para almacenar la experiencia, el escalado de atributos del jugador y las recompensas obtenidas al derrotar entidades enemigas.
-
-3. Entorno Visual y Movimiento
-Efecto Parallax 2D: Capas de fondo estructuradas de forma independiente que se desplazan a diferentes velocidades en relación con el movimiento de la cámara principal (Camera.main), simulando profundidad tridimensional en un entorno puramente bidimensional.
-
 🛠️ Tecnologías y Hardware de Desarrollo
 Motor Gráfico: Unity 2D Engine.
 
